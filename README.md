@@ -4,7 +4,7 @@ Username's not great, but I was a freshman and couldn't think of anything else
 Using [Arch](https://github.com/archlinux) to write some software and [archiso](https://github.com/archlinux/archiso) to make some distros  
 Check out the BossOS website at: [BossOS.org](https://bossos.org)
 
-Project's are going to be a bit inconsistent, UTA dual credit + Lockheed Martin Internship is going to be a bit
+Projects are going to be a bit inconsistent, UTA dual credit + Lockheed Martin Internship is going to be a bit
 
 ## Some of my Projects
  - [BossOS](https://github.com/Chicken-in-a-Can/BossOS): The Executive Operating System
