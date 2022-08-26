@@ -11,4 +11,4 @@ Project's are going to be a bit inconsistent, UTA dual credit + Lockheed Martin 
  - [cscOS](https://github.com/Chicken-in-a-Can/cscOS): Persistent, Live-USB based Official OS of the MHS Comp-Sci Club
  - [Roboboat](https://github.com/MHSeals) Programmer
    - [Object Detection](https://github.com/Chicken-in-a-Can/obj-detection) scripts made for this
- - MHS [Solar Car](https://solarcarchallenge.org) Team Captain. Telemetry programs will be on my repo in a few months
+ - MHS [Solar Car](https://solarcarchallenge.org) Team Captain. Telemetry program's available on my repo, but it's a bit bare
