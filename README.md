@@ -1,5 +1,14 @@
 # Chicken in a Can
-Username's not great. I know  
+Username's not great, but I was a freshman and couldn't think of anything else  
 
-Using [Arch](https://github.com/archlinux) to write some software and [archiso](https://github.com/archlinux/archiso) to make some distros
-Check out the BossOS website at: BossOS.org
+Using [Arch](https://github.com/archlinux) to write some software and [archiso](https://github.com/archlinux/archiso) to make some distros  
+Check out the BossOS website at: [BossOS.org](https://bossos.org)
+
+Project's are going to be a bit inconsistent, UTA dual credit + Lockheed Martin Internship is going to be a bit
+
+## Some of my Projects
+ - [BossOS](https://github.com/Chicken-in-a-Can/BossOS): The Executive Operating System
+ - [cscOS](https://github.com/Chicken-in-a-Can/cscOS): Persistent, Live-USB based Official OS of the MHS Comp-Sci Club
+ - [Roboboat](https://github.com/MHSeals) Programmer
+   - [Object Detection](https://github.com/Chicken-in-a-Can/obj-detection) scripts made for this
+ - MHS [Solar Car](https://solarcarchallenge.org) Team Captain. Telemetry programs will be on my repo in a few months
