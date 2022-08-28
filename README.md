@@ -1,6 +1,4 @@
 # Chicken in a Can
-Username's not great, but I was a freshman and couldn't think of anything else  
-
 Using [Arch](https://github.com/archlinux) to write some software and [archiso](https://github.com/archlinux/archiso) to make some distros  
 Check out the BossOS website at: [https://BossOS.org](https://bossos.org)
 
