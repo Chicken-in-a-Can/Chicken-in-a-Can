@@ -1,8 +1,8 @@
 # Chicken in a Can
-Using [Arch](https://github.com/archlinux) to write some software and [archiso](https://github.com/archlinux/archiso) to make some distros  
+Ben Stidham, Freshman @[UT Dallas](https://github.com/utdal) doing Computer Science  
+Maker of a few projects, including:  
+ - [Bequeath](https://github.com/Chicken-in-a-Can/Bequeath): A game and game engine written entirely in Rust
+ - [cscOS](https://github.com/Chicken-in-a-Can/cscOS): Arch Linux-based operating system
+ - [Buoy Detection](https://github.com/MHSeals/BuoyDetection): Buoy detection for [RoboBoat](https://github.com/robonation) competition, written in Rust
 
-Projects are going to be a bit inconsistent, I'm kinda dumb sometimes
-
-## Some of [my](https://github.com/Chicken-in-a-Can) Projects
- - [cscOS](https://github.com/Chicken-in-a-Can/cscOS): Persistent, Live-USB based Official OS of the MHS Comp-Sci Club
- - [Roboboat](https://github.com/MHSeals): Wrote some [object detection code](https://github.com/MHSeals/BuoyDetection)
+[![Chicken in a Can's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=chicken-in-a-can&hide=processing&langs_count=4&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
