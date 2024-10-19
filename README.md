@@ -1,5 +1,5 @@
 # Ben Stidham
-Sophmore @[UT Dallas](https://github.com/utdal) doing Computer Science  
+Sophomore @[UT Dallas](https://github.com/utdal) doing Computer Science  
 Maker of a few projects, including:  
  - [Bequeath](https://github.com/Chicken-in-a-Can/Bequeath): A game engine and programming language written in Rust, a game in the language
  - [BossOS](https://github.com/Chicken-in-a-Can/The-Executive-OS): Arch Linux-based operating system using KDE Plasma
